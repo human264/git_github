@@ -7,3 +7,8 @@ git push origin main
 git
 
 git commit
+
+
+git checkout commitId
+
+git checkout branchName
